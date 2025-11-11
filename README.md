@@ -1,6 +1,6 @@
 # Hi 👋, I'm lena swinnen
 
-### A passionate developer from around the world
+### A passionate developer from Belgium.
 
 - 🔭 I'm currently working on **my sleep schedule**
 
