@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **my sleep schedule**
 
-- 🌱 I'm currently learning **JavaScript and C**
+- 🌱 I'm currently learning **6502 ASM and C**
 
 - 👯 I'm looking to collaborate on **open source object**
 
