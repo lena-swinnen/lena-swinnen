@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Lua, Python and C#**
 
-- 📫 How to reach me **lenaiscool8@hotmail.com**
+- 📫 How to reach me **lena@modularlabs.online**
 
 - ⚡ Fun fact **🏳️‍⚧️ trans 🏳️‍⚧️**
 
